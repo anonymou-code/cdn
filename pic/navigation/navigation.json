@@ -131,6 +131,26 @@
             ]
         },
         {
+            "id": 6,
+            "name": "常用工具",
+            "links": [
+                {
+                    "url": "https://dex.guru/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/tools/guru.png",
+                    "alt": "dex.guru",
+                    "name": "ex.guru",
+                    "desc": "Dex.Guru"
+                },
+                {
+                    "url": "https://www.dextools.io/app/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/tools/dextools.png",
+                    "alt": "dextools",
+                    "name": "dextools",
+                    "desc": "用于 Uniswap 和 DEX 交易的 Ultimate Hub 和 Defi 应用程序。"
+                }
+            ]
+        },
+        {
             "id": 5,
             "name": "入门文档",
             "links": [
