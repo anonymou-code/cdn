@@ -94,25 +94,32 @@
             "name": "DEX交易所",
             "links": [
                 {
-                    "url": "https://ouyi.top",
+                    "url": "https://www.curve.fi/",
                     "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/dex/curve.png",
                     "alt": "Curve",
                     "name": "Curve",
                     "desc": "Curve是基于以太坊的去中心化稳定币交易池，其特点在于高效而低滑点的稳定币交易体验，以及为做市商提供低风险的手续费收入。"
                 },
                 {
-                    "url": "https://www.huobi.bo",
+                    "url": "https://uniswap.org/",
                     "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/dex/uniswap.png",
                     "alt": "Uniswap",
                     "name": "Uniswap",
                     "desc": "Uniswap 是完全部署在以太坊链上的DEX平台"
                 },
                 {
-                    "url": "https://www.binancezh.cz",
+                    "url": "https://sushiswap.org/",
                     "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/dex/sushiswap.png",
                     "alt": "Sushiswap",
                     "name": "Sushiswap",
                     "desc": "SushiSwap是一个Uniswap的分叉，于8月27日上线。"
+                },
+                {
+                    "url": "https://pancakeswap.finance/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/dex/pancakeswap.png",
+                    "alt": "pancakeSwap",
+                    "name": "pancakeSwap",
+                    "desc": "PancakeSwap的目标是成为Binance智能链上的第一流动性提供者和创新游戏化农业机制的发源地。"
                 }
             ]
         },
