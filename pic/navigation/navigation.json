@@ -120,6 +120,13 @@
                     "alt": "pancakeSwap",
                     "name": "pancakeSwap",
                     "desc": "PancakeSwap的目标是成为Binance智能链上的第一流动性提供者和创新游戏化农业机制的发源地。"
+                },
+                {
+                    "url": "https://mdex.me/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/dex/mdex.png",
+                    "alt": "Mdex",
+                    "name": "Mdex",
+                    "desc": "Mdex致力于打造火币生态链Heco上的集DEX、IMO、DAO为一体的DeFi平台"
                 }
             ]
         },
