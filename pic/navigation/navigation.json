@@ -147,6 +147,13 @@
                     "alt": "dextools",
                     "name": "dextools",
                     "desc": "用于 Uniswap 和 DEX 交易的 Ultimate Hub 和 Defi 应用程序。"
+                },
+                {
+                    "url": "https://app.tornado.cash/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/tools/tornado.png",
+                    "alt": "tornado.cash",
+                    "name": "tornado.cash",
+                    "desc": "非托管以太坊隐私解决方案。"
                 }
             ]
         },
