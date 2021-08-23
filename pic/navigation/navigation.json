@@ -149,6 +149,13 @@
                     "desc": "用于 Uniswap 和 DEX 交易的 Ultimate Hub 和 Defi 应用程序。"
                 },
                 {
+                    "url": "https://metamask.io/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/tools/metamask.png",
+                    "alt": "metamask",
+                    "name": "metamask",
+                    "desc": "A crypto wallet & gateway to blockchain apps"
+                },
+                {
                     "url": "https://app.tornado.cash/",
                     "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/tools/tornado.png",
                     "alt": "tornado.cash",
