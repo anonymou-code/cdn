@@ -174,6 +174,33 @@
                     "alt": "web3.js",
                     "name": "web3.js",
                     "desc": "web3.js - Ethereum JavaScript API"
+                },
+                {
+                    "url": "https://cn.developers.tron.network/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/docs/tron.png",
+                    "alt": "tron developer",
+                    "name": "tron dev",
+                    "desc": "The TRON Developer Hub"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "区块资讯",
+            "links": [
+                {
+                    "url": "https://chainnews.com/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/docs/lianxwen.png",
+                    "alt": "链闻",
+                    "name": "链闻",
+                    "desc": "前沿金融科技精英读物。"
+                },
+                {
+                    "url": "https://www.8btc.cn/",
+                    "img": "https://cdn.jsdelivr.net/gh/anonymou-code/cdn@main/pic/navigation/docs/8btc.png",
+                    "alt": "巴比特",
+                    "name": "巴比特",
+                    "desc": "国内最早的比特币论坛和资讯网站。"
                 }
             ]
         }
